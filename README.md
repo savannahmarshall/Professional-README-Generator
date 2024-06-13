@@ -1,7 +1,7 @@
 # Professional-README-Generator
 
 ## Description
-This application is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+This application is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. As a developer, I want a README generator so that I can quickly create a professional README for a new porject.
 
 While completing this application, I learned how to:
 

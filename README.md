@@ -9,7 +9,9 @@ While completing this application, I learned how to:
 *
 *
 *
+
 Some challenges I faced were:
+
 *
 *
 *

@@ -28,8 +28,8 @@ Screenshot here.
 
 
 ## Credits
-JavaScript
-Node
+* JavaScript
+* Node
 
 ## License
 N/A

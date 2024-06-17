@@ -114,7 +114,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const readmeContent = generateReadme(answers);
-        writeToFile('README.md', readmeContent);
+        writeToFile('newREADME.md', readmeContent);
     });
 }
 

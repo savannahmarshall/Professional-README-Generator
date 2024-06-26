@@ -8,47 +8,56 @@ const questions = [
         type: 'input',
         name: 'projectTitle',
         message: 'Enter your project title here:',
+        validate: (input) => input ? true : 'Project title is required.',
     },
     {
         type: 'input',
         name: 'description',
         message: "Enter the description of your project here:",
+        validate: (input) => input ? true : 'Description is required.',
     },
     { 
         type: 'input',
         name: 'installation',
         message: 'Enter installation instructions here:',
+        validate: (input) => input ? true : 'Description is required.',
     },
     {
         type: 'input',
         name: 'usage',
         message: 'Enter usage information here:',
+        validate: (input) => input ? true : 'Usage information is required.',
     },
     {
         type: 'input',
         name: 'contributing',
         message: 'Enter contributing guidelines here:',
+        validate: (input) => input ? true : 'Contributing guidelines are required.',
     },
     {
         type: 'input',
         name: 'tests',
         message: 'Enter test instructions here:',
+        valide: (input) => input ? true : 'Test instructions are required.',
     },
     {
         type: 'list',
         name: 'license',
         message: 'Choose a license for your application:',
         choices: ['MIT', 'GPLv3', 'Apache 2.0', 'BSD 3-Clause', 'None'],
+        valide: (input) => input ? true : 'Choosing a license is required.',
     },
     {
         type: 'input',
         name: 'githubUsername',
         message: 'Enter your GitHub username here:',
+        validate: (input) => input ? true : 'You must enter a GitHub username.',
     },
     {
         type: 'input',
         name: 'email',
         message: 'Enter your email address here:',
+        validate: (input) => input ? true : 'You must enter an email.',
     },
 ];
 

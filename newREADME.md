@@ -1,9 +1,9 @@
-# title
+# dsd
 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-des
+sd
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,19 +14,19 @@ des
 - [Questions](#questions)
 
 ## Installation
-s
+sdsd
 
 ## Usage
-s
+ds
 
 ## License
-This project is licensed under the BSD 3-Clause license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-s
+ds
 
 ## Tests
-s
+ds
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at ss. You can find more of my work at [github.com/ss](https://github.com/ss).
+If you have any questions about the repo, open an issue or contact me directly at dsd. You can find more of my work at [github.com/dsd](https://github.com/dsd).

@@ -37,4 +37,4 @@ Please click [here](https:/) to view a demo on how to use this application.
 * [Node](https://nodejs.org/en)
 
 ## License
-N/A
+This project was created using the [MIT License] (https://opensource.org/license/MIT).

@@ -1,11 +1,12 @@
-# Example Project Title
+# Title
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-Description of project.
+Description
 
 ## Table of Contents
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -14,23 +15,23 @@ Description of project.
 - [Questions](#questions)
 
 ## Installation
-Installation instructions.
+Installation instructions
 
 ## Usage
-Usage information.
+Usage info
 
 ## License
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
 
 ## Contributing
-Contributing guidelines.
+Contributing
 
 ## Tests
-Test instructions.
+Tests
 
 ## Questions
 If you have any questions about the repo, please contact me directly!
 
-Email: savvymarshall@gmail.com
+Email: email here
 
 GitHub: [savannahmarshall](https://github.com/savannahmarshall)

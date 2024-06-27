@@ -66,9 +66,10 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-If you have any questions about the repo, please contact me directly at ${data.email}. You can find more of my work at:
-[github.com/${data.githubUsername}](https://github.com/${data.githubUsername}).
-`;
+If you have any questions about the repo, please contact me directly!
+Email: ${data.email}
+GitHub: 
+[github.com/${data.githubUsername}]`;
 }
 
 module.exports = generateMarkdown;

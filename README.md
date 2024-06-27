@@ -5,17 +5,18 @@ This application is a command-line application that dynamically generates a prof
 
 While completing this application, I learned how to:
 
-* Create interactive command-line prompts for a Node.js application
-* Use the `writeFile` method
-*
-*
+* Create interactive command-line prompts for a Node.js application.
+* Utilize markdown.
+* Use the `writeFile` method.
+* Separate my JavaScript into different files to improve modularity and make navigation easier.
+* Add a license and license badge to my GitHub projects in addition to learning more about licensing overall.
+
 
 Some challenges I faced were:
 
-* 
-* 
-* Styling the text for the questions using chalk. I struggled to create a working function that would change the text color. 
-*
+* Navigating a larger amout of files than we are used to.
+* I had an issue with the path I was using to import my generatemarkdown.js file to my index.js file that took a good amount of time to figure out.
+* Styling the text for the questions using chalk. I struggled to create a function that would successfully change the text color. I would like to also add a different text color for the user's answers to the questions, which I may revisit in the future.
 
 ## Installation
 To use this application, you must install [Node](https://nodejs.org/en). Before running this application, you must install inquirer by typing "npm install i" into the command-line.

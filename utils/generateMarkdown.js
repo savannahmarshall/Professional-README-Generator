@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
 This project is licensed under the [${license}](${renderLicenseLink(license)}) license.`;
 }
 
-// Function to generate markdown for README
+// Function to generate markdown
 function generateMarkdown(data) {
   return `# ${data.projectTitle}
 

@@ -1,6 +1,9 @@
-const fs = require('fs');
-const inquirer = require('inquirer');
-const generateMarkdown = require('./utils/generateMarkdown');// Importing the generateMarkdown function
+const fs = require('fs'); // Importing the Node.js core module file system
+const inquirer = require('inquirer'); // Importing inquirer
+const generateMarkdown = require('./utils/generateMarkdown'); // Importing the generateMarkdown file
+
+// Dynamically import chalk
+const chalkPromise = import('chalk').then(module => module.default);
 
 // Array of questions for user input
 const questions = [
@@ -73,12 +76,18 @@ function writeToFile(fileName, data) {
 }
 
 // Function to initialize app
-function init() {
+async function init() {
+    const chalk = await chalkPromise; // Wait for chalk to be imported
+    
+    // Apply Chalk styling to all question messages
+    questions.forEach(question => {
+        question.message = chalk.red(question.message);
+    });
+
     inquirer.prompt(questions).then((answers) => {
         const readmeContent = generateMarkdown(answers); // Using the generateMarkdown function
         writeToFile('newREADME.md', readmeContent);
     });
 }
-
 // Function call to initialize app
 init();

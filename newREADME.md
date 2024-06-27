@@ -1,9 +1,9 @@
-# dsd
+# Demo Project Title
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-sd
+Description of project here.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,19 +14,19 @@ sd
 - [Questions](#questions)
 
 ## Installation
-sdsd
+Installation instructions here.
 
 ## Usage
-ds
+Usage information here.
 
 ## License
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
 
 ## Contributing
-ds
+Contributing guidelines here.
 
 ## Tests
-ds
+Test instructions here.
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at dsd. You can find more of my work at [github.com/dsd](https://github.com/dsd).
+If you have any questions about the repo, open an issue or contact me directly at Email here.. You can find more of my work at [github.com/GitHub username here.](https://github.com/GitHub username here.).

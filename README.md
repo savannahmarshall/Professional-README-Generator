@@ -24,9 +24,12 @@ Some challenges I faced were:
 ## Usage
 Please view the short demo on how to use the application here:
 
-https://github.com/savannahmarshall/README-Generator/blob/main/utils/assets/Readme-commandline.png
 
-https://github.com/savannahmarshall/README-Generator/blob/main/utils/assets/readme-example.png
+Please click [here](https://savannahmarshall.github.io/Weather-Dashboard/) to view the deployed application.
+
+![screenshot of readme questions and answers in command line](https://github.com/savannahmarshall/README-Generator/blob/main/utils/assets/Readme-commandline.png)
+
+![screenshot of readme example](https://github.com/savannahmarshall/README-Generator/blob/main/utils/assets/readme-example.png)
 
 
 

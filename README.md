@@ -34,8 +34,8 @@ Please click [here](https:/) to view a demo on how to use this application.
 
 
 ## Credits
-* JavaScript
-* Node
+* [JavaScript](https://www.javascript.com/)
+* [Node](https://nodejs.org/en)
 
 ## License
 N/A

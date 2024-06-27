@@ -24,7 +24,10 @@ Some challenges I faced were:
 ## Usage
 Please view the short demo on how to use the application here:
 
-Video here
+https://github.com/savannahmarshall/README-Generator/blob/main/utils/assets/Readme-commandline.png
+
+https://github.com/savannahmarshall/README-Generator/blob/main/utils/assets/readme-example.png
+
 
 
 ## Credits

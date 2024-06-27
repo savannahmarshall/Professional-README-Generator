@@ -68,8 +68,8 @@ ${data.tests}
 ## Questions
 If you have any questions about the repo, please contact me directly!
 Email: ${data.email}
-GitHub: 
-[github.com/${data.githubUsername}]`;
+GitHub: [${data.githubUsername}]
+`;
 }
 
 module.exports = generateMarkdown;

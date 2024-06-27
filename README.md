@@ -1,12 +1,12 @@
 # Professional-README-Generator
 
 ## Description
-This application is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. As a developer, I want a README generator so that I can quickly create a professional README for a new project.
+This application is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package with Node.js. The user is presented with a list of questions about their application and the answers are combined to create a final product that is a high-quality readme. This application allows the user to devote more of their time to working on their project.
 
 While completing this application, I learned how to:
 
 * Create interactive command-line prompts for a Node.js application.
-* Utilize markdown.
+* Utilize Markdown.
 * Use the `writeFile` method.
 * Separate my JavaScript into different files to improve modularity and make navigation easier.
 * Add a license and license badge to my GitHub projects in addition to learning more about licensing overall.
@@ -32,6 +32,8 @@ To use this application, you must install [Node](https://nodejs.org/en). Before 
 
 ## Usage
 
+To use this application, start by confirming that node.js is installed on your machine. Navigate to the correct folder and type npm install i into the command-line to install inquirer. Next, type node index.js to initialize the prompts. Fill out your answers to each question. Finally, navigate to the "newREADME.md" file to see your generated readme.
+
 Please click [here](https:/) to view a demo on how to use this application.
 
 
@@ -44,7 +46,7 @@ Please click [here](https:/) to view a demo on how to use this application.
 
 ## Contributing
 * [JavaScript](https://www.javascript.com/)
-* [Node](https://nodejs.org/en)
+* [Node.js](https://nodejs.org/en)
 
 ## License
 This project was created using the [MIT License](https://opensource.org/license/MIT).
@@ -53,6 +55,6 @@ This project was created using the [MIT License](https://opensource.org/license/
 N/A
 
 ## Questions
-Please contact me directly with any questions. My information is below.  
+Please contact me directly with any questions. My information is below:  
 GitHub: https://github.com/savannahmarshall  
 Email: savvymarshall@gmail.com

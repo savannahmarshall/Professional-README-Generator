@@ -30,7 +30,7 @@ Some challenges I faced were:
 - [Questions](#questions)
 
 ## Installation
-To use this application, you must install [Node](https://nodejs.org/en). Before running this application, you must install inquirer by typing "npm install inquirer" into the command-line.
+To use this application, you must install [Node.js](https://nodejs.org/en). Before running this application, you must install inquirer by typing "npm install inquirer" into the command-line.
 
 ## Usage
 

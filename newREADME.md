@@ -1,9 +1,9 @@
 # title
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Description
-d
+des
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,19 +14,19 @@ d
 - [Questions](#questions)
 
 ## Installation
-d
+s
 
 ## Usage
-d
+s
 
 ## License
-This project is licensed under the MIT license.
+This project is licensed under the BSD 3-Clause license.
 
 ## Contributing
-d
+s
 
 ## Tests
-d
+s
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at d. You can find more of my work at [github.com/d](https://github.com/d).
+If you have any questions about the repo, open an issue or contact me directly at ss. You can find more of my work at [github.com/ss](https://github.com/ss).

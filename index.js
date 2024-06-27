@@ -1,6 +1,6 @@
 // Packages needed for this application
 const fs = require('fs');
-const inquirer = require ('inquirer');
+const inquirer = require('inquirer');
 
 // Array of questions for user input
 const questions = [
@@ -13,14 +13,14 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        message: "Enter the description of your project here:",
+        message: 'Enter the description of your project here:',
         validate: (input) => input ? true : 'Description is required.',
     },
     { 
         type: 'input',
         name: 'installation',
         message: 'Enter installation instructions here:',
-        validate: (input) => input ? true : 'Description is required.',
+        validate: (input) => input ? true : 'Installation instructions are required.',
     },
     {
         type: 'input',
@@ -38,14 +38,14 @@ const questions = [
         type: 'input',
         name: 'tests',
         message: 'Enter test instructions here:',
-        valide: (input) => input ? true : 'Test instructions are required.',
+        validate: (input) => input ? true : 'Test instructions are required.',
     },
     {
         type: 'list',
         name: 'license',
         message: 'Choose a license for your application:',
         choices: ['MIT', 'GPLv3', 'Apache 2.0', 'BSD 3-Clause', 'None'],
-        valide: (input) => input ? true : 'Choosing a license is required.',
+        validate: (input) => input ? true : 'Choosing a license is required.',
     },
     {
         type: 'input',
@@ -71,9 +71,14 @@ const licenseBadges = {
 
 // function to generate readme answers 
 function generateReadme(answers) {
+    const licenseBadge = licenseBadges[answers.license];
+    const licenseSection = answers.license === 'None' 
+        ? 'This project is not licensed.' 
+        : `This project is licensed under the ${answers.license} license.`;
+    
     const readmeContent = `# ${answers.projectTitle}
 
-${licenseBadges[answers.license]}
+${licenseBadge}
 
 ## Description
 ${answers.description}
@@ -93,7 +98,7 @@ ${answers.installation}
 ${answers.usage}
 
 ## License
-This project is licensed under the ${answers.license} license.
+${licenseSection}
 
 ## Contributing
 ${answers.contributing}
@@ -105,7 +110,7 @@ ${answers.tests}
 If you have any questions about the repo, open an issue or contact me directly at ${answers.email}. You can find more of my work at [github.com/${answers.githubUsername}](https://github.com/${answers.githubUsername}).
 `;
 
-return readmeContent;
+    return readmeContent;
 }
 
 // function to write README file
@@ -119,7 +124,7 @@ function writeToFile(fileName, data) {
     });
 }
 
-//function to initialize app
+// function to initialize app
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const readmeContent = generateReadme(answers);
@@ -129,4 +134,3 @@ function init() {
 
 // function call to initialize app
 init();
-

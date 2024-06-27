@@ -66,8 +66,8 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-If you have any questions about the project, please contact me directly!
-Email: ${data.email}
+If you have any questions about the repo, please contact me directly!\n
+Email: ${data.email}\n
 GitHub: [${data.githubUsername}](https://github.com/${data.githubUsername})
 `;
 }

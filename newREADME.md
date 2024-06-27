@@ -26,9 +26,11 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 Contributing guidelines.
 
 ## Tests
-Test instructions
+Test instructions.
 
 ## Questions
-If you have any questions about the project, please contact me directly!
+If you have any questions about the repo, please contact me directly!
+
 Email: savvymarshall@gmail.com
+
 GitHub: [savannahmarshall](https://github.com/savannahmarshall)

@@ -32,7 +32,7 @@ To use this application, you must install [Node](https://nodejs.org/en). Before 
 
 ## Usage
 
-To use this application, start by confirming that node.js is installed on your machine. Navigate to the correct folder and type npm install i into the command-line to install inquirer. Next, type node index.js to initialize the prompts. Fill out your answers to each question. Finally, navigate to the "newREADME.md" file to see your generated readme.
+To use this application, start by confirming that Node.js is installed on your machine. The official Node.js website is linked below in the contributing section. Navigate to the correct folder and type npm install i into the command-line to install inquirer. Next, type node index.js to initialize the prompts. Fill out your answers to each question. Finally, navigate to the "newREADME.md" file to see your generated readme.
 
 Please click [here](https:/) to view a demo on how to use this application.
 

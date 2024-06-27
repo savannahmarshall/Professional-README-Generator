@@ -14,7 +14,7 @@ dsd
 - [Questions](#questions)
 
 ## Installation
-sds
+dsd
 
 ## Usage
 ds
@@ -26,9 +26,9 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 dds
 
 ## Tests
-ds
+dsd
 
 ## Questions
-If you have any questions about the repo, please contact me directly!
+If you have any questions about the project, please contact me directly!
 Email: savvymarshall@gmail.com
-GitHub: [savannahmarshall]
+GitHub:savannahmarshall

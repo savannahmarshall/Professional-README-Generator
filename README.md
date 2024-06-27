@@ -53,6 +53,6 @@ This project was created using the [MIT License](https://opensource.org/license/
 N/A
 
 ## Questions
-Please contact me directly with any questions! My information is below.
-GitHub: https://github.com/savannahmarshall
+Please contact me directly with any questions! My information is below./n
+GitHub: https://github.com/savannahmarshall/n
 Email: savvymarshall@gmail.com

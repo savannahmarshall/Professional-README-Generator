@@ -10,7 +10,7 @@ While completing this application, I learned how to:
 * Create interactive command-line prompts for a Node.js application.
 * Utilize Markdown.
 * Use the `writeFile` method.
-* Separate my JavaScript into different files to improve modularity and make navigation easier.
+* Separate my JavaScript code into different files to improve modularity and ease of navigation.
 * Add a license and license badge to my GitHub projects in addition to learning more about licensing overall.
 
 Some challenges I faced were:

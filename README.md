@@ -1,7 +1,7 @@
 # Professional-README-Generator
 
 ## Description
-This application is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package with Node.js. The user is presented with a list of questions about their application and the answers are combined to create a final product that is a high-quality readme. This application allows the user to devote more of their time to working on their project.
+This application is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package with Node.js. The user is presented with a list of questions about their application and the answers are combined to create a final product that is a high-quality readme. This application allows the user to devote more of their time to working on their project and less time creating a readme.
 
 While completing this application, I learned how to:
 

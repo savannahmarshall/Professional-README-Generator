@@ -1,9 +1,7 @@
 const fs = require('fs'); // Importing the Node.js core module file system
 const inquirer = require('inquirer'); // Importing inquirer
 const generateMarkdown = require('./utils/generateMarkdown'); // Importing the generateMarkdown file
-
-// Dynamically import chalk
-const chalkPromise = import('chalk').then(module => module.default);
+const chalkPromise = import('chalk').then(module => module.default); // Import chalk
 
 // Array of questions for user input
 const questions = [

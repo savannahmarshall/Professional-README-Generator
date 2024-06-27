@@ -1,9 +1,9 @@
-# dsd
+# Example Project Title
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-dsd
+Description of project.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,21 +14,21 @@ dsd
 - [Questions](#questions)
 
 ## Installation
-dsd
+Installation instructions.
 
 ## Usage
-ds
+Usage information.
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-dds
+Contributing guidelines.
 
 ## Tests
-dsd
+Test instructions
 
 ## Questions
 If you have any questions about the project, please contact me directly!
 Email: savvymarshall@gmail.com
-GitHub:savannahmarshall
+GitHub: [savannahmarshall](https://github.com/savannahmarshall)

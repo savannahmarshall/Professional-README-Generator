@@ -15,7 +15,7 @@ Description
 - [Questions](#questions)
 
 ## Installation
-Installation 
+Installation
 
 ## Usage
 Usage info
@@ -32,6 +32,6 @@ Tests
 ## Questions
 If you have any questions about the repo, please contact me directly!
 
-Email: email here
+Email: savvymarshall@gmail.com
 
-GitHub: [Github username](https://github.com/Github username)
+GitHub: [savannahmarshall](https://github.com/savannahmarshall)

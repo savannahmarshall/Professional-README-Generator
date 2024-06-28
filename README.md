@@ -36,7 +36,7 @@ To use this application, you must install [Node.js](https://nodejs.org/en). Befo
 
 To use this application, start by confirming that Node.js is installed on your machine. The official Node.js website is linked below in the contributing section. Navigate to the correct folder and type npm install inquirer into the command-line. Next, type node index.js to initialize the prompts. Fill out your answers to each question. Finally, navigate to the "newREADME.md" file to see your generated readme.
 
-Please click [here](https:/) to view a demo on how to use this application.
+Please click [here](https://drive.google.com/file/d/1Jq_TR_bj7AN81rcBYVij8v_qjgfjpkvB/view) to view a demo on how to use this application.
 
 
 ![screenshot of readme example](https://github.com/savannahmarshall/README-Generator/blob/main/utils/assets/readme-example.png)

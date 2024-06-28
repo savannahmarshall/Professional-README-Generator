@@ -1,6 +1,6 @@
 # Title
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
 Description
@@ -15,13 +15,13 @@ Description
 - [Questions](#questions)
 
 ## Installation
-Installation instructions
+Installation 
 
 ## Usage
 Usage info
 
 ## License
-This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
+This project is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0) license.
 
 ## Contributing
 Contributing
@@ -34,4 +34,4 @@ If you have any questions about the repo, please contact me directly!
 
 Email: email here
 
-GitHub: [savannahmarshall](https://github.com/savannahmarshall)
+GitHub: [Github username](https://github.com/Github username)
